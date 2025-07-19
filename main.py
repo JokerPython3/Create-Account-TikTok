@@ -1,3 +1,4 @@
+#Code Write : @JokerPython3 / S1
 import requests
 import SignerPy
 def xor(string):
